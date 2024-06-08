@@ -1,0 +1,25 @@
+[
+    {"id": 86, "name": "idle", "amt": "299", "shop": "pizzahut", "ftype": "Pizza", "pic": "C:/localD/additional_knowlegde/REACT/Shoping_cart/shopping-cart/src/assets/Images/istockphoto-610567238-1024x1024.jpg", "latest": "no"},
+    {"id": 87, "name": "active", "amt": "399", "shop": "dominos", "ftype": "Pizza", "pic": "C:/localD/additional_knowlegde/REACT/Shoping_cart/shopping-cart/src/assets/Images/istockphoto-610567238-1024x1024.jpg", "latest": "yes"},
+    {"id": 88, "name": "on hold", "amt": "199", "shop": "pizzahut", "ftype": "Burger", "pic": "C:/localD/additional_knowlegde/REACT/Shoping_cart/shopping-cart/src/assets/Images/istockphoto-610567238-1024x1024.jpg", "latest": "no"},
+    {"id": 89, "name": "cancelled", "amt": "299", "shop": "burgerking", "ftype": "Burger", "pic": "C:/localD/additional_knowlegde/REACT/Shoping_cart/shopping-cart/src/assets/Images/istockphoto-610567238-1024x1024.jpg", "latest": "no"},
+    {"id": 90, "name": "delivered", "amt": "499", "shop": "pizzahut", "ftype": "Pizza", "pic": "C:/localD/additional_knowlegde/REACT/Shoping_cart/shopping-cart/src/assets/Images/istockphoto-610567238-1024x1024.jpg", "latest": "yes"},
+    {"id": 91, "name": "in progress", "amt": "299", "shop": "dominos", "ftype": "Pizza", "pic": "C:/localD/additional_knowlegde/REACT/Shoping_cart/shopping-cart/src/assets/Images/istockphoto-610567238-1024x1024.jpg", "latest": "no"},
+    {"id": 92, "name": "idle", "amt": "399", "shop": "burgerking", "ftype": "Burger", "pic": "C:/localD/additional_knowlegde/REACT/Shoping_cart/shopping-cart/src/assets/Images/istockphoto-610567238-1024x1024.jpg", "latest": "yes"},
+    {"id": 93, "name": "completed", "amt": "199", "shop": "pizzahut", "ftype": "Pizza", "pic": "C:/localD/additional_knowlegde/REACT/Shoping_cart/shopping-cart/src/assets/Images/istockphoto-610567238-1024x1024.jpg", "latest": "no"},
+    {"id": 94, "name": "returned", "amt": "299", "shop": "dominos", "ftype": "Pizza", "pic": "C:/localD/additional_knowlegde/REACT/Shoping_cart/shopping-cart/src/assets/Images/istockphoto-610567238-1024x1024.jpg", "latest": "no"},
+    {"id": 95, "name": "pending", "amt": "399", "shop": "burgerking", "ftype": "Burger", "pic": "C:/localD/additional_knowlegde/REACT/Shoping_cart/shopping-cart/src/assets/Images/istockphoto-610567238-1024x1024.jpg", "latest": "yes"},
+    {"id": 96, "name": "shipped", "amt": "199", "shop": "pizzahut", "ftype": "Pizza", "pic": "C:/localD/additional_knowlegde/REACT/Shoping_cart/shopping-cart/src/assets/Images/istockphoto-610567238-1024x1024.jpg", "latest": "no"},
+    {"id": 97, "name": "received", "amt": "299", "shop": "dominos", "ftype": "Pizza", "pic": "C:/localD/additional_knowlegde/REACT/Shoping_cart/shopping-cart/src/assets/Images/istockphoto-610567238-1024x1024.jpg", "latest": "no"},
+    {"id": 98, "name": "processing", "amt": "399", "shop": "burgerking", "ftype": "Burger", "pic": "C:/localD/additional_knowlegde/REACT/Shoping_cart/shopping-cart/src/assets/Images/istockphoto-610567238-1024x1024.jpg", "latest": "yes"},
+    {"id": 99, "name": "completed", "amt": "199", "shop": "pizzahut", "ftype": "Pizza", "pic": "C:/localD/additional_knowlegde/REACT/Shoping_cart/shopping-cart/src/assets/Images/istockphoto-610567238-1024x1024.jpg", "latest": "no"},
+    {"id": 100, "name": "idle", "amt": "299", "shop": "dominos", "ftype": "Pizza", "pic": "C:/localD/additional_knowlegde/REACT/Shoping_cart/shopping-cart/src/assets/Images/istockphoto-610567238-1024x1024.jpg", "latest": "no"},
+    {"id": 101, "name": "cancelled", "amt": "399", "shop": "burgerking", "ftype": "Burger", "pic": "C:/localD/additional_knowlegde/REACT/Shoping_cart/shopping-cart/src/assets/Images/istockphoto-610567238-1024x1024.jpg", "latest": "yes"},
+    {"id": 102, "name": "active", "amt": "199", "shop": "pizzahut", "ftype": "Pizza", "pic": "C:/localD/additional_knowlegde/REACT/Shoping_cart/shopping-cart/src/assets/Images/istockphoto-610567238-1024x1024.jpg", "latest": "no"},
+    {"id": 103, "name": "pending", "amt": "299", "shop": "dominos", "ftype": "Pizza", "pic": "C:/localD/additional_knowlegde/REACT/Shoping_cart/shopping-cart/src/assets/Images/istockphoto-610567238-1024x1024.jpg", "latest": "no"},
+    {"id": 104, "name": "returned", "amt": "399", "shop": "burgerking", "ftype": "Burger", "pic": "C:/localD/additional_knowlegde/REACT/Shoping_cart/shopping-cart/src/assets/Images/istockphoto-610567238-1024x1024.jpg", "latest": "yes"},
+    {"id": 105, "name": "shipped", "amt": "199", "shop": "pizzahut", "ftype": "Pizza", "pic": "C:/localD/additional_knowlegde/REACT/Shoping_cart/shopping-cart/src/assets/Images/istockphoto-610567238-1024x1024.jpg", "latest": "no"}
+  ]
+  
+  
+  
